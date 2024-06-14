@@ -20,7 +20,7 @@
 <div class="container container-fluid">
   <nav
     class="navbar navbar-expand-lg text-center d-flex align-items-center justify-content-center"
-    style="background: url('assets/photos/a001.jpg') no-repeat center center fixed"
+    style="background: url('/assets/photos/a001.jpg') no-repeat center center fixed"
   >
     <a class="navbar-brand"><h1 class="text-center text-light mt-2">徒步珠穆朗玛峰大本营</h1></a>
   </nav>
